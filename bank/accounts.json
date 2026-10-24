@@ -1,0 +1,30 @@
+[
+    {
+        "account_no": "526816",
+        "name": "shraddha",
+        "pin": "1234python -u \"c:\\Users\\hp\\Desktop\\bank\\main.py\"",
+        "balance": 1000.0,
+        "transactions": [
+            "\u20b92000.0: deposited",
+            "\u20b91000.0: withdrawn"
+        ]
+    },
+    {
+        "account_no": "472392",
+        "name": "mina",
+        "pin": "5678",
+        "balance": 1000.0,
+        "transactions": [
+            "\u20b91000.0: deposited"
+        ]
+    },
+    {
+        "account_no": "519965",
+        "name": "s",
+        "pin": "1234",
+        "balance": 2000.0,
+        "transactions": [
+            "\u20b92000.0: deposited"
+        ]
+    }
+]
